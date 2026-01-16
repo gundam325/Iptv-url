@@ -4,7 +4,8 @@
 #EXTINF:-1 group-title="lokal" tvg-logo="https://i.imgur.com/bD2odoR.png",TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
-
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.imgur.com/bD2odoR.png",TRANSMEDIA
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
 
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="lokal",ANTV (720p) [Geo-blocked]
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
